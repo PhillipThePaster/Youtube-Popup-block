@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  None
 // @author       Phillip
-// @match        https://youtube.com/
+// @match        https://youtube.com/*
 // @grant        none
 // ==/UserScript==
 
